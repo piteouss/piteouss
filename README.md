@@ -1,7 +1,7 @@
 i'm piteous.
 i'm 13,
 i love to code, but i'm still not a good programmer
-i'm still learning coding languages but already grasp the basics
+i'm still learning coding languages but already grasp the basics and mod on psych engine in my free time
 <p>intense gaming
 <!---
 piteouss/piteouss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
